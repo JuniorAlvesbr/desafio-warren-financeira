@@ -1,7 +1,7 @@
 # Desafio Warren - Web
 
 ## Resultado final no link abaixo
-https://junioralvesbr.github.io/desafio-warren-web/
+https://junioralvesbr.github.io/desafio-warren-financeira/
 
 ## Motivo
     Cumpri esse desafio com motivações didáticas, dentre os conhecimentos adiqueridos destaco:
@@ -12,7 +12,7 @@ https://junioralvesbr.github.io/desafio-warren-web/
       - pratica de css para criação dos componentes.
 
     Instalação
-      git clone https://github.com/JuniorAlvesbr/desafio-warren-web.git
+      git clone https://junioralvesbr.github.io/desafio-warren-financeira
       npm install
       npm run dev
 
